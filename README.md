@@ -1,4 +1,4 @@
-# [![CouchCMS](https://www.couchcms.com/img/logo.png "CouchCMS")](https://www.couchcms.com/)
+# Backhood CMS
 ### A simple open-source CMS for designers.
 
 ##### No knowledge of PHP required at all.
